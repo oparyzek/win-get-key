@@ -1,5 +1,5 @@
 # win-get-key
-Code to get Windows License key from cmd.
+Code to get Windows License key from BIOS.
 
 # Info:
 Place it to cmd propt with admin privileges.
